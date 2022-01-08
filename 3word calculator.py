@@ -1,0 +1,5 @@
+print('Hello,')
+a = int(input('첫번째 숫자를 입력하세요(개쩌는 계산기)'))
+b = int(input('두번째 숫자를 입력하세요'))
+c = int(input('마지막인 세번째 숫자를 입력하세요'))
+print(a + b + c)
